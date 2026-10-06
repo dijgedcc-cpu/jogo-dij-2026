@@ -6,14 +6,14 @@ export const gameData = {
       id: 1,
       title: "O Bullying",
       icon: "😢",
-      description: "No grupo de WhatsApp da escola e nos corredores, começou a rolar uma brincadeira sem graça com o Lucas, um aluno novo que é mais quieto e usa óculos com armação antiga. Criaram um apelido maldoso e começaram a postar memes editados para zombar do jeito dele falar. A turma toda ri para não ficar de fora, e alguns até repassam as fotos. Lucas tem chegado calado em casa, com a nota caindo e inventando desculpas para não ir à aula.",
+      description: "No grupo de WhatsApp da escola e nos corredores, começou a rolar uma brincadeira sem graça com o Eli, um aluno novo que é mais quieto e usa óculos com armação antiga. Criaram um apelido maldoso e começaram a postar memes editados para zombar do jeito dele falar. A turma toda ri para não ficar de fora, e alguns até repassam as fotos. Eli tem chegado calado em casa, com a nota caindo e inventando desculpas para não ir à aula.",
       actions: [
         {
           characterId: "graca",
           label: "Acolher Lucas com Colo Espiritual",
           description: "Deusa-Irmã Graça envolve Lucas em uma energia de amor incondicional, curando a dor emocional e restaurando sua autoestima.",
           quality: "best",
-          resultText: "O Colo Espiritual de Graça envolveu Lucas, que finalmente se sentiu visto e amado. A dor do bullying começou a cicatrizar e ele encontrou coragem para pedir ajuda aos professores. A turma, tocada pela vibração do amor, parou com as piadas."
+          resultText: "O Colo Espiritual de Graça envolveu Eli, que finalmente se sentiu visto e amado. A dor do bullying começou a cicatrizar e ele encontrou coragem para pedir ajuda aos professores. A turma, tocada pela vibração do amor, parou com as piadas."
         },
         {
           characterId: "jam",
@@ -42,35 +42,35 @@ export const gameData = {
       id: 2,
       title: "Em Casa",
       icon: "🏠",
-      description: "Na casa de Beatriz (14 anos), o clima andava pesado há semanas. Sempre que ela chega da escola, vai direto para o quarto, joga a mochila no chão, liga o fone de ouvido e fica horas no celular. Os pais reclamam que ela não conversa. Beatriz sente que os pais só sabem cobrar notas e criticar. Em um sábado, após um pedido simples para arrumar o quarto virar uma discussão com gritos e portas batidas, o clima fica insustentável.",
+      description: "Na casa de Zara (14 anos), o clima andava pesado há semanas. Sempre que ela chega da escola, vai direto para o quarto, joga a mochila no chão, liga o fone de ouvido e fica horas no celular. Os pais reclamam que ela não conversa. Zara sente que os pais só sabem cobrar notas e criticar. Em um sábado, após um pedido simples para arrumar o quarto virar uma discussão com gritos e portas batidas, o clima fica insustentável.",
       actions: [
         {
           characterId: "ale_aly",
           label: "Mediar com O Abraço da Ternura",
           description: "Alê & Aly neutralizam a ansiedade e criam um espaço seguro para o diálogo entre Beatriz e seus pais.",
           quality: "best",
-          resultText: "O Abraço da Ternura de Alê & Aly envolveu a casa de Beatriz em uma energia de paz. A ansiedade se dissipou e, pela primeira vez em semanas, Beatriz e seus pais conseguiram conversar sem gritos. Lágrimas de reconciliação rolaram."
+          resultText: "O Abraço da Ternura de Alê & Aly envolveu a casa de Zara em uma energia de paz. A ansiedade se dissipou e, pela primeira vez em semanas, Zara e seus pais conseguiram conversar sem gritos. Lágrimas de reconciliação rolaram."
         },
         {
           characterId: "violeiro",
           label: "Harmonizar com Acorde da Elevação",
           description: "O Violeiro Harmônico limpa o campo áurico da casa, dissipando a raiva e a ansiedade acumuladas.",
           quality: "good",
-          resultText: "As notas do Violeiro preencheram a casa com uma vibração serena. A raiva que impregnava as paredes começou a se dissipar. Os pais de Beatriz respiraram fundo e ela sentiu vontade de sair do quarto."
+          resultText: "As notas do Violeiro preencheram a casa com uma vibração serena. A raiva que impregnava as paredes começou a se dissipar. Os pais de Zara respiraram fundo e ela sentiu vontade de sair do quarto."
         },
         {
           characterId: "graca",
           label: "Intuição da Necessidade para revelar o que falta",
           description: "Deusa-Irmã Graça usa sua intuição para revelar os pontos cegos de ambos os lados: Beatriz e seus pais.",
           quality: "good",
-          resultText: "Graça revelou ao grupo que Beatriz estava sofrendo pressão dos amigos na escola e os pais não sabiam. Ao mesmo tempo, mostrou que os pais só queriam protegê-la. A compreensão mútua começou a brotar."
+          resultText: "Graça revelou ao grupo que Zara estava sofrendo pressão dos amigos na escola e os pais não sabiam. Ao mesmo tempo, mostrou que os pais só queriam protegê-la. A compreensão mútua começou a brotar."
         },
         {
           characterId: "jam",
           label: "Comandar uma reunião familiar com Superforça Vital",
           description: "Jam tenta forçar uma conversa usando a autoridade da sua voz e energia vital.",
           quality: "poor",
-          resultText: "A energia intensa de Jam assustou tanto Beatriz quanto seus pais. Forçar a conversa gerou mais resistência. Jam sentiu a Afonia do Esgotamento — às vezes a força bruta não resolve conflitos familiares delicados."
+          resultText: "A energia intensa de Jam assustou tanto Zara quanto seus pais. Forçar a conversa gerou mais resistência. Jam sentiu a Afonia do Esgotamento — às vezes a força bruta não resolve conflitos familiares delicados."
         }
       ]
     },
@@ -78,28 +78,28 @@ export const gameData = {
       id: 3,
       title: "O Pávio Curto no Intervalo",
       icon: "⚽",
-      description: "Durante um jogo de futebol no intervalo, a disputa pela bola ficou acirrada. Cauã passou a bola com força excessiva, quase machucando Enzo. Enzo partiu para cima com gritos e empurrões. Uma roda de alunos se formou, alguns incentivando a briga. O professor separou a dupla, mas a energia de raiva continuou vibrando forte.",
+      description: "Durante um jogo de futebol no intervalo, a disputa pela bola ficou acirrada. Axé passou a bola com força excessiva, quase machucando Yaman. Yaman partiu para cima com gritos e empurrões. Uma roda de alunos se formou, alguns incentivando a briga. O professor separou a dupla, mas a energia de raiva continuou vibrando forte.",
       actions: [
         {
           characterId: "violeiro",
           label: "Acorde da Elevação para dissipar a raiva",
           description: "O Violeiro Harmônico toca um acorde que limpa toda a energia de raiva e agressividade do ambiente.",
           quality: "best",
-          resultText: "O acorde do Violeiro cortou a tensão como um raio de luz. A raiva que alimentava Cauã e Enzo simplesmente se evaporou. Os dois se olharam confusos, como se tivessem acordado de um transe. A roda se dispersou em paz."
+          resultText: "O acorde do Violeiro cortou a tensão como um raio de luz. A raiva que alimentava Axé e Yaman simplesmente se evaporou. Os dois se olharam confusos, como se tivessem acordado de um transe. A roda se dispersou em paz."
         },
         {
           characterId: "jam",
           label: "Ressonância do 5º Chakra para impor autoridade",
           description: "Jam usa sua voz poderosa para interromper a escalada de violência com autoridade amorosa.",
           quality: "good",
-          resultText: "A voz de Jam ressoou com tanta força e amor que os dois pararam na hora. 'Vocês são mais fortes que essa raiva!' — a frase ecoou. Cauã pediu desculpas primeiro, quebrando o orgulho."
+          resultText: "A voz de Jam ressoou com tanta força e amor que os dois pararam na hora. 'Vocês são mais fortes que essa raiva!' — a frase ecoou. Axé pediu desculpas primeiro, quebrando o orgulho."
         },
         {
           characterId: "mary",
           label: "Construir uma ponte entre os dois com As Mãos Construtoras",
           description: "Mary materializa uma solução prática, organizando um novo jogo onde ambos precisam cooperar.",
           quality: "good",
-          resultText: "Mary rapidamente organizou um desafio onde Cauã e Enzo precisavam jogar no mesmo time. A competição transformou-se em cooperação. No final, os dois se cumprimentaram com respeito."
+          resultText: "Mary rapidamente organizou um desafio onde Axé e Yaman precisavam jogar no mesmo time. A competição transformou-se em cooperação. No final, os dois se cumprimentaram com respeito."
         },
         {
           characterId: "luciano",
@@ -114,14 +114,14 @@ export const gameData = {
       id: 4,
       title: "O Comentário Nada Inocente",
       icon: "💔",
-      description: "Durante um trabalho em grupo na escola, Mariana (uma garota negra de 13 anos) sugeriu uma ideia inovadora. Um colega soltou: 'Nossa, Mariana, até que para o seu tipo de cabelo e estilo, você pensou bem rápido, né?'. Alguns riram, mas Mariana travou, sentiu o rosto esquentar de vergonha e frustração, e ficou em silêncio o resto do trabalho.",
+      description: "Durante um trabalho em grupo na escola, Lyla (uma garota negra de 13 anos) sugeriu uma ideia inovadora. Um colega soltou: 'Nossa, Lyla, até que para o seu tipo de cabelo e estilo, você pensou bem rápido, né?'. Alguns riram, mas Lyla travou, sentiu o rosto esquentar de vergonha e frustração, e ficou em silêncio o resto do trabalho.",
       actions: [
         {
           characterId: "jess",
           label: "Vento do Movimento para ajustar a injustiça",
           description: "Jess intervém com velocidade e precisão, nomeando o racismo e protegendo Mariana.",
           quality: "best",
-          resultText: "Jess agiu rapidamente: nomeou o preconceito sem rodeios, acolheu Mariana e fez o colega entender o peso das suas palavras. A turma inteira aprendeu uma lição sobre racismo estrutural. Mariana voltou a sorrir, sentindo-se protegida."
+          resultText: "Jess agiu rapidamente: nomeou o preconceito sem rodeios, acolheu Lyla e fez o colega entender o peso das suas palavras. A turma inteira aprendeu uma lição sobre racismo estrutural. Lyla voltou a sorrir, sentindo-se protegida."
         },
         {
           characterId: "august",
@@ -135,14 +135,14 @@ export const gameData = {
           label: "Colo Espiritual para acolher Mariana",
           description: "Deusa-Irmã Graça acolhe Mariana emocionalmente, curando a ferida do preconceito.",
           quality: "good",
-          resultText: "Graça envolveu Mariana em luz e calor. 'Sua ideia foi brilhante, Mariana. Você é brilhante.' As palavras foram bálsamo. Mariana sentiu as lágrimas secarem e a força voltar. Mas o colega agressor não foi confrontado."
+          resultText: "Graça envolveu Lyla em luz e calor. 'Sua ideia foi brilhante, Lyla. Você é brilhante.' As palavras foram bálsamo. Lyla sentiu as lágrimas secarem e a força voltar. Mas o colega agressor não foi confrontado."
         },
         {
           characterId: "deby",
           label: "Explosão de Alegria para mudar o clima",
           description: "Deby tenta transformar o ambiente pesado em algo leve e positivo.",
           quality: "poor",
-          resultText: "A Explosão de Alegria de Deby deixou a sala mais leve, mas invisibilizou a dor de Mariana. Fazer de conta que está tudo bem quando alguém sofreu racismo é perigoso. Deby sentiu o peso de ter errado a abordagem."
+          resultText: "A Explosão de Alegria de Deby deixou a sala mais leve, mas invisibilizou a dor de Lyla. Fazer de conta que está tudo bem quando alguém sofreu racismo é perigoso. Deby sentiu o peso de ter errado a abordagem."
         }
       ]
     },
@@ -150,33 +150,33 @@ export const gameData = {
       id: 5,
       title: "O Limite Desrespeitado",
       icon: "🛡️",
-      description: "Nas últimas semanas, João percebeu que um veterano da escola começou a persegui-lo nas redes sociais com mensagens insistentes e comentários invasivos. Nos corredores, esse aluno faz brincadeiras constrangedoras para intimidá-lo. João sente uma angústia enorme toda vez que se aproxima do horário de ir para a escola, mas tem medo de contar.",
+      description: "Nas últimas semanas, Mert percebeu que um veterano da escola começou a persegui-lo nas redes sociais com mensagens insistentes e comentários invasivos. Nos corredores, esse aluno faz brincadeiras constrangedoras para intimidá-lo. Mert sente uma angústia enorme toda vez que se aproxima do horário de ir para a escola, mas tem medo de contar.",
       actions: [
         {
           characterId: "mary",
           label: "As Mãos Construtoras para criar um caminho seguro",
           description: "Mary constrói uma ponte de confiança para João e materializa uma rede de apoio com adultos responsáveis.",
           quality: "best",
-          resultText: "Mary construiu pacientemente uma rede de proteção: conectou João a um professor de confiança, ajudou-o a salvar as provas das mensagens e organizou um encontro seguro onde ele pôde contar tudo. O veterano foi confrontado pela escola com justiça."
+          resultText: "Mary construiu pacientemente uma rede de proteção: conectou Mert a um professor de confiança, ajudou-o a salvar as provas das mensagens e organizou um encontro seguro onde ele pôde contar tudo. O veterano foi confrontado pela escola com justiça."
         },
         {
           characterId: "jess",
           label: "Vento do Movimento para intervir rapidamente",
           description: "Jess ajusta a situação injusta com velocidade, confrontando o agressor e protegendo João.",
           quality: "good",
-          resultText: "Jess interceptou o veterano no corredor com firmeza: 'Isso acaba agora.' A velocidade e determinação de Jess assustaram o agressor. João ganhou fôlego, mas o problema precisaria de acompanhamento a longo prazo."
+          resultText: "Jess interceptou o veterano no corredor com firmeza: 'Isso acaba agora.' A velocidade e determinação de Jess assustaram o agressor. Mert ganhou fôlego, mas o problema precisaria de acompanhamento a longo prazo."
         },
         {
           characterId: "ale_aly",
           label: "O Abraço da Ternura para acalmar João",
-          description: "Alê & Aly neutralizam a ansiedade de João e criam um espaço seguro para ele se abrir.",
+          description: "Alê & Aly neutralizam a ansiedade de Mert e criam um espaço seguro para ele se abrir.",
           quality: "good",
-          resultText: "A ternura de Alê & Aly fez João chorar de alívio. Pela primeira vez ele sentiu que podia confiar em alguém. O abraço não resolveu o problema do agressor, mas deu a João a coragem que faltava para buscar ajuda."
+          resultText: "A ternura de Alê & Aly fez Mert chorar de alívio. Pela primeira vez ele sentiu que podia confiar em alguém. O abraço não resolveu o problema do agressor, mas deu a Mert a coragem que faltava para buscar ajuda."
         },
         {
           characterId: "luciano",
           label: "Gambiarra Divina para bloquear o agressor digitalmente",
-          description: "Brady tenta usar sua engenharia para bloquear e rastrear as mensagens do agressor.",
+          description: "Brady tenta usar sua engenharia para bloquear e rastrear as mensagens do agressor de Mert.",
           quality: "poor",
           resultText: "A Gambiarra de Brady bloqueou temporariamente as mensagens, mas o agressor encontrou outros caminhos. Soluções técnicas sozinhas não protegem quem sofre assédio — é preciso intervenção humana. Brady sentiu a Sobrecarga Mental."
         }
